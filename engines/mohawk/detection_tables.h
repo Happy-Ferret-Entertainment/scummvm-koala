@@ -3103,6 +3103,24 @@ static const MohawkGameDescription gameDescriptions[] = {
 
 	{
 		{
+			"koala",
+			_s("Missing game code"), // Reason for being unsupported,
+			{
+				{"KOALA.MHK", 0, "1e9550dead9d957a01cc642e6b746b44", 445272},
+				AD_LISTEND
+			},
+			Common::EN_ANY,
+			Common::kPlatformWindows,
+			ADGF_UNSTABLE,
+			GUIO1(GUIO_NOASPECT)
+		},
+		GType_KOALA,
+		0,
+		0
+	},
+
+	{
+		{
 			"rugrats",
 			"",
 			AD_ENTRY1("outline", "525be248363fe27d50d750632c1e759e"),

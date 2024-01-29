@@ -78,6 +78,7 @@ static const PlainGameDescriptor mohawkGames[] = {
 	{"mathsworkshopdx", "Maths Workshop Deluxe" },
 	{"wricamact", "Write, Camera, Action!"},
 	{"amazingwriting", "The Amazing Writing Machine"},
+	{"koala", "Koala Lumpur: Journey to the Edge"},
 	{nullptr, nullptr}
 };
 
